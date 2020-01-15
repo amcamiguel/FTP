@@ -7,4 +7,4 @@ File Transfer Protocol, es el padre por excelencia de Dropdbox, Google Drive, et
 
 **¿Si era seguro?**
 
-**¿Si era fácil de instalar, configurar, etc...?
+**¿Si es fácil de instalar, configurar, etc...?**
