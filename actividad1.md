@@ -2,7 +2,6 @@ En esta primera actividad respecto al FTP vamos a aprender a instalar nuestro pr
 
 Antes de empezar vamos a necesitar un máquina virtual Ubuntu 18.04 e instalar Webmin y FileZilla.
 
-*En este [enlace](https://clouding.io/kb/como-instalar-webmin-en-ubuntu-18-04/) tienes una guía sobre como instalar Webmin paso a paso.*
 
 **1.** En este primera paso vamos a aprender a instalar nuestro servidor que en este caso instalaremos el **PROFTPD server**, tendremos que acceder al Webmin, que con ingresar un usuario con permisos de sudo nos permite entrar, a continuación tenemos que acceder al apartado de Webmin que se llama **Un-used Modules**.
 
