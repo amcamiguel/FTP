@@ -4,15 +4,15 @@ Antes de empezar vamos a necesitar un máquina virtual Ubuntu 18.04 e instalar W
 
 *En este [enlace](https://clouding.io/kb/como-instalar-webmin-en-ubuntu-18-04/) tienes una guía sobre como instalar Webmin paso a paso.*
 
-**1.** En este primera paso vamos a aprender a instalar nuestro servidor que en este caso instalaremos el **PROFTPD server**, tendremos que acceder al Webmin, que con ingresar un usuario con permisos de sudo nos permite entrar, a continuación tenemos que acceder al apartado de Webmin que se llama **Un-used Modules**
+**1.** En este primera paso vamos a aprender a instalar nuestro servidor que en este caso instalaremos el **PROFTPD server**, tendremos que acceder al Webmin, que con ingresar un usuario con permisos de sudo nos permite entrar, a continuación tenemos que acceder al apartado de Webmin que se llama **Un-used Modules**.
 
 Y obviamente buscar ProFTPD Server que el servidor que queremos instalar. Cuando lo encontremos la primera opción que nos aparece es la siguiente:
 
 Le damos a **Install Now** y nos aparecerá una nueva pantalla:
 
-Esta pantalla nos va a decir que paquetes son los que va instalar junto al servidor, simplemente volvemos a darle a **Install Now**
+Esta pantalla nos va a decir que paquetes son los que va instalar junto al servidor, simplemente volvemos a darle a **Install Now**.
 
-Después nos aparecerán las típicas líneas de texto que nos aparecerían si usáramos el comando *apt-get*, una vez instalado le damos a **Return to ProFTPD Server**
+Después nos aparecerán las típicas líneas de texto que nos aparecerían si usáramos el comando *apt-get*, una vez instalado le damos a **Return to ProFTPD Server**.
 
 Cuando volvamos veremos que efectivamente ya podemos configurar nuestro servidor. 
 
